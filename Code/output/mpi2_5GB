@@ -1,0 +1,19 @@
+Starting MPI2 tests on 5GB file..
+
+Configuration 1 nodes:
+Reading file..
+Completed reading file
+Total Similarities: 49742981 similarities.
+Total time: 244.337s
+
+Configuration 2 nodes:
+Reading file..
+Completed reading file
+Total Similarities: 49742981 similarities.
+Total time: 152.467s
+
+Configuration 3 nodes:
+Reading file..
+Completed reading file
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-node01: error: *** STEP 66673.10 ON node01 CANCELLED AT 2025-03-03T21:23:50 ***

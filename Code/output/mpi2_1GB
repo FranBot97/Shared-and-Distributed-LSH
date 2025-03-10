@@ -1,0 +1,52 @@
+Starting MPI2 tests on 1GB file..
+
+Configuration 1 nodes:
+Reading file..
+Completed reading file
+Total Similarities: 9956009 similarities.
+Total time: 43.4846s
+
+Configuration 2 nodes:
+Reading file..
+Completed reading file
+Total Similarities: 9956009 similarities.
+Total time: 29.8489s
+
+Configuration 3 nodes:
+Reading file..
+Completed reading file
+Total Similarities: 9956009 similarities.
+Total time: 21.7849s
+
+Configuration 4 nodes:
+Reading file..
+Completed reading file
+Total Similarities: 9956009 similarities.
+Total time: 18.0307s
+
+Configuration 5 nodes:
+Reading file..
+Completed reading file
+Total Similarities: 9956009 similarities.
+Total time: 14.8849s
+
+Configuration 6 nodes:
+Reading file..
+Completed reading file
+Total Similarities: 9956009 similarities.
+Total time: 13.8338s
+
+Configuration 7 nodes:
+Reading file..
+Completed reading file
+Total Similarities: 9956009 similarities.
+Total time: 12.8146s
+
+Configuration 8 nodes:
+Reading file..
+Completed reading file
+Total Similarities: 9956009 similarities.
+Total time: 11.2869s
+
+END OF MPI TESTS for 1GB
+

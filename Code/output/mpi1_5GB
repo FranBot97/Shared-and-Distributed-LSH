@@ -1,0 +1,39 @@
+Starting MPI1 tests on 5GB file..
+
+Configuration 4 nodes:
+STOP EVERYONE!
+Local similarities: 24745916 and object 12007962
+Local similarities: 24997065 and object 11992038
+Total similarities: 49742981
+Elapsed time: 307.636s
+
+Configuration 5 nodes:
+STOP EVERYONE!
+Local similarities: 24745916 and object 12007962
+Local similarities: 24997065 and object 11992038
+Total similarities: 49742981
+Elapsed time: 155.472s
+
+Configuration 6 nodes:
+STOP EVERYONE!
+Local similarities: 24745916 and object 12007962
+Local similarities: 24997065 and object 11992038
+Total similarities: 49742981
+Elapsed time: 106.486s
+
+Configuration 7 nodes:
+STOP EVERYONE!
+Local similarities: 24997065 and object 11992038
+Local similarities: 24745916 and object 12007962
+Total similarities: 49742981
+Elapsed time: 79.5988s
+
+Configuration 8 nodes:
+STOP EVERYONE!
+Local similarities: 24745916 and object 12007962
+Local similarities: 24997065 and object 11992038
+Total similarities: 49742981
+Elapsed time: 70.3213s
+
+END OF MPI TESTS for 5GB
+

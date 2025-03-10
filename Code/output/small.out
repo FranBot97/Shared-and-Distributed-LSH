@@ -1,0 +1,25 @@
+Starting all the small tests on 1GB file
+
+Sequential 1GB
+Trajectories similar found: 9956009
+Total time after read: 47.4929s
+
+Fastflow (7,6) 1GB
+Start timer..
+Trajectories similar found: 9956009
+Total time after read: 11.0609s
+
+MPI1 8 nodes
+STOP EVERYONE!
+Local similarities: 5073024 and object 2403459
+Local similarities: 4882768 and object 2396453
+Total similarities: 9955792
+Elapsed time: 16.6047s
+
+MPI2 8 nodes
+Reading file..
+Completed reading file
+Total Similarities: 9956009 similarities.
+Total time: 11.4961s
+
+END OF SMALL TESTS

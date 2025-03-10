@@ -1,0 +1,43 @@
+Starting FastFlow tests on 1GB file..
+
+Configuration (1,1):
+Start timer..
+Trajectories similar found: 9956009
+Total time after read: 37.0967s
+
+Configuration (2,2):
+Start timer..
+Trajectories similar found: 9956009
+Total time after read: 18.6323s
+
+Configuration (4,4):
+Start timer..
+Trajectories similar found: 9956009
+Total time after read: 10.6774s
+
+Configuration (5,5):
+Start timer..
+Trajectories similar found: 9956009
+Total time after read: 11.0896s
+
+Configuration (6,6):
+Start timer..
+Trajectories similar found: 9956009
+Total time after read: 11.8028s
+
+Configuration (8,8):
+Start timer..
+Trajectories similar found: 9956009
+Total time after read: 11.6199s
+
+Configuration (10,10):
+Start timer..
+Trajectories similar found: 9956009
+Total time after read: 12.0207s
+
+Configuration (14,14):
+Start timer..
+Trajectories similar found: 9956009
+Total time after read: 11.9861s
+
+END OF TESTS for 1GB

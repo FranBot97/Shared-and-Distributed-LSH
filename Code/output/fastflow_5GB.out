@@ -1,0 +1,41 @@
+Starting FastFlow tests on 5GB file..
+
+Configuration (1,1):
+Start timer..
+Trajectories similar found: 49742981
+Total time after read: 189.079s
+
+Configuration (2,2):
+Start timer..
+Trajectories similar found: 49742981
+Total time after read: 93.1469s
+
+Configuration (4,4):
+Start timer..
+Trajectories similar found: 49742981
+Total time after read: 53.4172s
+
+Configuration (5,5):
+Start timer..
+Trajectories similar found: 49742981
+Total time after read: 55.8121s
+
+Configuration (6,6):
+Start timer..
+Trajectories similar found: 49742981
+Total time after read: 60.5577s
+
+Configuration (8,8):
+Start timer..
+Trajectories similar found: 49742981
+Total time after read: 59.0826s
+
+Configuration (10,10):
+Start timer..
+Trajectories similar found: 49742981
+Total time after read: 62.7169s
+
+Configuration (14,14):
+Start timer..
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-node01: error: *** STEP 66675.18 ON node01 CANCELLED AT 2025-03-03T22:18:03 ***
