@@ -1,5 +1,5 @@
 # Shared and Distributed LSH
-Program which calculates Locality Sensitive Hashing similarities with different models of parallelism, using Fastflow for the Shared Memory Model and MPI for the Distributed Memory Model. More details can be found in the report.
+A program that calculates Locality Sensitive Hashing similarities with different models of parallelism, using Fastflow for the Shared Memory Model and MPI for the Distributed Memory Model. More details can be found in the report.
 
 # How to run
 Position inside the "Code" directory and from cmd execute
